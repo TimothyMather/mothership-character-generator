@@ -1,6 +1,6 @@
 function generateCharacter() {
     console.log('generated')
-    fetch('http://localhost:5000/generate', {
+    fetch('http://127.0.0.1:5000/generate', {
         method: 'GET',
     })
     .then(response => response.blob())
