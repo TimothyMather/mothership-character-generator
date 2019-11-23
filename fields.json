@@ -1,0 +1,695 @@
+{
+    "mothership_character_sheet.pdf": {
+        "0": {
+            "type": "Text",
+            "name": "Name",
+            "flags": "33554432",
+            "justification": "Center",
+            "styledefault": "font: Helvetica,sans-serif 8.0pt; text-align:center; color:#000000 "
+        },
+        "1": {
+            "type": "Text",
+            "name": "Level",
+            "flags": "33554432",
+            "justification": "Center",
+            "styledefault": "font: Helvetica,sans-serif 8.0pt; text-align:center; color:#000000 "
+        },
+        "2": {
+            "type": "Text",
+            "name": "Rank/Title",
+            "flags": "33554432",
+            "justification": "Center",
+            "styledefault": "font: Helvetica,sans-serif 8.0pt; text-align:center; color:#000000 "
+        },
+        "3": {
+            "type": "Text",
+            "name": "Stress",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "4": {
+            "type": "Text",
+            "name": "Resolve",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "5": {
+            "type": "Text",
+            "name": "Max Health",
+            "flags": "33554432",
+            "justification": "Center",
+            "styledefault": "font: bold Helvetica,sans-serif 14.0pt; text-align:center; color:#000000 "
+        },
+        "6": {
+            "type": "Text",
+            "name": "Strength Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "7": {
+            "type": "Text",
+            "name": "Speed Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "8": {
+            "type": "Text",
+            "name": "Intellect Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "9": {
+            "type": "Text",
+            "name": "Combat Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "10": {
+            "type": "Button",
+            "name": "Crew Member Image",
+            "flags": "65536",
+            "justification": "Left"
+        },
+        "11": {
+            "type": "Button",
+            "name": "Biology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "12": {
+            "type": "Button",
+            "name": "First Aid Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "13": {
+            "type": "Button",
+            "name": "Hydroponics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "14": {
+            "type": "Button",
+            "name": "Geology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "15": {
+            "type": "Button",
+            "name": "Zero-G Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "16": {
+            "type": "Button",
+            "name": "Scavenging Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "17": {
+            "type": "Button",
+            "name": "Heavy Machinery Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "18": {
+            "type": "Button",
+            "name": "Computers Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "19": {
+            "type": "Button",
+            "name": "Mechanical Repair Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "20": {
+            "type": "Button",
+            "name": "Driving Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "21": {
+            "type": "Button",
+            "name": "Theology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "22": {
+            "type": "Button",
+            "name": "Archaeology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "23": {
+            "type": "Button",
+            "name": "Art Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "24": {
+            "type": "Button",
+            "name": "Mathematics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "25": {
+            "type": "Button",
+            "name": "Piloting Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "26": {
+            "type": "Button",
+            "name": "Chemistry Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "27": {
+            "type": "Button",
+            "name": "Athletics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "28": {
+            "type": "Button",
+            "name": "Rimwise Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "29": {
+            "type": "Button",
+            "name": "Military Training Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "30": {
+            "type": "Button",
+            "name": "Psychology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "31": {
+            "type": "Button",
+            "name": "Genetics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "32": {
+            "type": "Button",
+            "name": "Pathology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "33": {
+            "type": "Button",
+            "name": "Botany Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "34": {
+            "type": "Button",
+            "name": "Planetology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "35": {
+            "type": "Button",
+            "name": "Asteroid Mining Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "36": {
+            "type": "Button",
+            "name": "Jury Rigging Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "37": {
+            "type": "Button",
+            "name": "Engineering Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "38": {
+            "type": "Button",
+            "name": "Hacking Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "39": {
+            "type": "Button",
+            "name": "Vehicle Specialization Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "40": {
+            "type": "Button",
+            "name": "Tactics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "41": {
+            "type": "Button",
+            "name": "Mysticism Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "42": {
+            "type": "Button",
+            "name": "Physics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "43": {
+            "type": "Button",
+            "name": "Astrogation Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "44": {
+            "type": "Button",
+            "name": "Gunnery Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "45": {
+            "type": "Button",
+            "name": "Firearms Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "46": {
+            "type": "Button",
+            "name": "Close-Quarters Combat Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "47": {
+            "type": "Button",
+            "name": "Explosives Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "48": {
+            "type": "Button",
+            "name": "Sophontology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "49": {
+            "type": "Button",
+            "name": "Xenobiology Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "50": {
+            "type": "Button",
+            "name": "Command Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "51": {
+            "type": "Button",
+            "name": "Artificial Intelligence Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "52": {
+            "type": "Button",
+            "name": "Robotics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "53": {
+            "type": "Button",
+            "name": "Cybernetics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "54": {
+            "type": "Button",
+            "name": "Hyperspace Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "55": {
+            "type": "Button",
+            "name": "Xenoesotericism Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "56": {
+            "type": "Button",
+            "name": "Linguistics Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "57": {
+            "type": "Button",
+            "name": "Weapon Specialization Skill",
+            "flags": "0",
+            "justification": "Left",
+            "stateoption": [
+                "Yes",
+                "Off"
+            ]
+        },
+        "58": {
+            "type": "Text",
+            "name": "Player Notes",
+            "flags": "33558528",
+            "justification": "Left",
+            "styledefault": "font: Helvetica,sans-serif 10.0pt; text-align:left; color:#000000 "
+        },
+        "59": {
+            "type": "Text",
+            "name": "Equipment",
+            "flags": "33558528",
+            "justification": "Left",
+            "styledefault": "font: Helvetica,sans-serif 10.0pt; text-align:left; color:#000000 "
+        },
+        "60": {
+            "type": "Text",
+            "name": "Credits",
+            "flags": "33554432",
+            "justification": "Center",
+            "styledefault": "font: Helvetica,sans-serif 8.0pt; text-align:center; color:#000000 "
+        },
+        "61": {
+            "type": "Text",
+            "name": "XP",
+            "flags": "33554432",
+            "justification": "Center",
+            "styledefault": "font: Helvetica,sans-serif 8.0pt; text-align:center; color:#000000 "
+        },
+        "62": {
+            "type": "Text",
+            "name": "Teamster Armor Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "63": {
+            "type": "Text",
+            "name": "Teamster Sanity Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "64": {
+            "type": "Text",
+            "name": "Teamster Fear Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "65": {
+            "type": "Text",
+            "name": "Teamster Body Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "66": {
+            "type": "Text",
+            "name": "Android Sanity Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "67": {
+            "type": "Text",
+            "name": "Android Fear Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "68": {
+            "type": "Text",
+            "name": "Android Body Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "69": {
+            "type": "Text",
+            "name": "Scientist Body Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "70": {
+            "type": "Text",
+            "name": "Scientist Fear Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "71": {
+            "type": "Text",
+            "name": "Scientist Sanity Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "72": {
+            "type": "Text",
+            "name": "Marine Sanity Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "73": {
+            "type": "Text",
+            "name": "Marine Body Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "74": {
+            "type": "Text",
+            "name": "Marine Fear Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "75": {
+            "type": "Text",
+            "name": "Android Armor Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "76": {
+            "type": "Text",
+            "name": "Scientist Armor Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "77": {
+            "type": "Text",
+            "name": "Marine Armor Score",
+            "flags": "0",
+            "justification": "Center"
+        },
+        "78": {
+            "type": "Button",
+            "name": "Class",
+            "flags": "33603586",
+            "value": "Teamster",
+            "justification": "Left",
+            "stateoption": [
+                "Marine",
+                "Scientist",
+                "Off",
+                "Teamster",
+                "Android"
+            ]
+        },
+        "79": {
+            "type": "Button",
+            "name": "Loadout",
+            "flags": "49154",
+            "justification": "Left",
+            "stateoption": [
+                "Excavation Loadout",
+                "Exploration Loadout",
+                "Examination Loadout",
+                "Extermination Loadout",
+                "Off"
+            ]
+        }
+    }
+}

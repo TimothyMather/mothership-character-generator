@@ -1,0 +1,22 @@
+.title {
+    color: rgb(75, 75, 75);
+    align-self: center;
+}
+
+body {
+    background-color: black;
+}
+
+.card {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0 10% 0 10%;
+}
+
+button {
+    width: 20%;
+    align-self: center;
+    margin-bottom: 20px;
+}
